@@ -6,8 +6,7 @@ EcoBridge Connect is an interactive circular-commerce prototype that connects In
 
 - TanStack Start and React 19
 - TypeScript and Tailwind CSS 4
-- Netlify Functions and Netlify AI Gateway
-- Google Gemini via `@google/genai`
+- Netlify Functions and Netlify AI Gateway`
 - Lucide React icons
 - Browser camera, speech recognition, and speech synthesis APIs
 
